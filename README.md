@@ -35,3 +35,7 @@ Task {
 imageView image = await image?.byPreparingForDisplay()
 }
 You can also create a thumbnail using func prepareThumbnail(of: CGSize, completionHandler: (UIImage?) -> Void) of specific size
+
+![Simulator Screen Recording - iPhone 15 Pro - 2024-02-05 at 15 40 26](https://github.com/nbnitin/PrepareForDisplay/assets/5785670/3f9500e4-f9ed-4f0e-ab87-78d01dcafd55)
+
+
